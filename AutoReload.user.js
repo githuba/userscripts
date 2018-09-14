@@ -11,6 +11,6 @@
 // @include     https://steamcn.com/forum.php?mod=forumdisplay&fid=319&filter=author&orderby=dateline
 // ==/UserScript==
 
-var numMinutes = 1;
+var numMinutes = 3;
 var random = Math.floor(Math.random()*1000) + 1000;
 setTimeout(function(){ location.reload(); }, numMinutes*60*random);
