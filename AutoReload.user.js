@@ -1,6 +1,6 @@
 // ==UserScript==
-// @name        Auto Reload X min random
-// @description Reload pages every X minutes
+// @name        Auto Reload Random
+// @description Reload pages every X to 2X minutes
 // @author      githuba
 // @namespace   https://github.com/githuba/userscripts
 // @version     0.1
