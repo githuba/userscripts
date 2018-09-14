@@ -12,5 +12,12 @@
 // ==/UserScript==
 
 var numMinutes = 3;
+
+/* function rand(min, max) { 
+return Math.floor(Math.random() * (max - min + 1)) + min; 
+} */
 var random = Math.floor(Math.random()*1000) + 1000;
+
+/* every 1 minute */
+/* setTimeout(function(){ location.reload(); }, 1*60*1000); */
 setTimeout(function(){ location.reload(); }, numMinutes*60*random);
