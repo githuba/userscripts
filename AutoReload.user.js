@@ -2,6 +2,7 @@
 // @name        Auto Reload X min random
 // @namespace   https://github.com/githuba/userscripts
 // @description Reload pages every X minutes
+// @author      githuba
 // @version     0.1
 // @downloadURL https://raw.githubusercontent.com/githuba/userscripts/master/AutoReload.user.js
 // @include     http://club.tgfcer.com/*
