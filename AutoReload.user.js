@@ -11,7 +11,7 @@
 // @include     https://steamcn.com/forum.php?mod=forumdisplay&fid=319&filter=author&orderby=dateline
 // ==/UserScript==
 
-var numMinutes = 3;
+var numMinutes = 2;
 
 /* random */
 /* function rand(min, max) { 
