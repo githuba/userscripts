@@ -3,7 +3,7 @@
 // @description Reload pages every X to 2X minutes
 // @author      githuba
 // @namespace   https://github.com/githuba/userscripts
-// @version     0.1
+// @version     0.1.1
 // @downloadURL https://raw.githubusercontent.com/githuba/userscripts/master/AutoReload.user.js
 // @include     http://club.tgfcer.com/*
 // @include     https://steamcn.com/forum.php?mod=forumdisplay&fid=234&filter=author&orderby=dateline
@@ -13,6 +13,7 @@
 
 var numMinutes = 3;
 
+/* randome */
 /* function rand(min, max) { 
 return Math.floor(Math.random() * (max - min + 1)) + min; 
 } */
