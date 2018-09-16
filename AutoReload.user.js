@@ -3,12 +3,14 @@
 // @description Reload pages every X to 2X minutes
 // @author      githuba
 // @namespace   https://github.com/githuba/userscripts
-// @version     1.1
+// @supportURL  https://github.com/githuba/userscripts/issues
+// @version     1.2
 // @downloadURL https://raw.githubusercontent.com/githuba/userscripts/master/AutoReload.user.js
 // @include     http://club.tgfcer.com/*
 // @include     https://steamcn.com/forum.php?mod=forumdisplay&fid=234&filter=author&orderby=dateline
 // @include     https://steamcn.com/forum.php?mod=forumdisplay&fid=271&filter=author&orderby=dateline
 // @include     https://steamcn.com/forum.php?mod=forumdisplay&fid=319&filter=author&orderby=dateline
+// @run-at document-end
 // ==/UserScript==
 
 var numMinutes = 2;
