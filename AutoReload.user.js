@@ -4,12 +4,10 @@
 // @author      githuba
 // @namespace   https://github.com/githuba/userscripts
 // @supportURL  https://github.com/githuba/userscripts/issues
-// @version     1.3
+// @version     1.4
 // @downloadURL https://raw.githubusercontent.com/githuba/userscripts/master/AutoReload.user.js
 // @include     http://club.tgfcer.com/*
-// @include     https://steamcn.com/forum.php?mod=forumdisplay&fid=234&filter=author&orderby=dateline
-// @include     https://steamcn.com/forum.php?mod=forumdisplay&fid=271&filter=author&orderby=dateline
-// @include     https://steamcn.com/forum.php?mod=forumdisplay&fid=319&filter=author&orderby=dateline
+// @include     https://steamcn.com/*fid*
 // @run-at document-end
 // ==/UserScript==
 
