@@ -8,6 +8,7 @@
 // @downloadURL https://raw.githubusercontent.com/githuba/userscripts/master/AutoReload.user.js
 // @include     http://club.tgfcer.com/*
 // @include     https://steamcn.com/*fid*
+// @include     https://steamcn.com/forum.php?mod=guide*
 // @include     https://na.alienwarearena.com/
 // @run-at document-end
 // ==/UserScript==
