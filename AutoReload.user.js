@@ -4,10 +4,10 @@
 // @author      githuba
 // @namespace   https://github.com/githuba/userscripts
 // @supportURL  https://github.com/githuba/userscripts/issues
-// @version     1.7
+// @version     1.8
 // @downloadURL https://raw.githubusercontent.com/githuba/userscripts/master/AutoReload.user.js
 // @include     http://club.tgfcer.com/*
-// @include     http://http://bbs.weibufengge.com/*
+// @include     http://bbs.weibufengge.com/*
 // @include     https://steamcn.com/*fid*
 // @include     https://steamcn.com/forum.php?mod=guide*
 // @include     https://na.alienwarearena.com/
