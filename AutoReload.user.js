@@ -4,9 +4,9 @@
 // @author      githuba
 // @namespace   https://github.com/githuba/userscripts
 // @supportURL  https://github.com/githuba/userscripts/issues
-// @version     1.9
+// @version     2.0
 // @downloadURL https://raw.githubusercontent.com/githuba/userscripts/master/AutoReload.user.js
-// @include     http://club.tgfcer.com/*
+// @include     http://*.tgfcer.com/*
 // @include     http://bbs.weibufengge.com/*
 // @include     https://steamcn.com/*fid*
 // @include     https://steamcn.com/forum.php?mod=guide*
