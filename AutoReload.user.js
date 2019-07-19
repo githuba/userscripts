@@ -4,13 +4,14 @@
 // @author      githuba
 // @namespace   https://github.com/githuba/userscripts
 // @supportURL  https://github.com/githuba/userscripts/issues
-// @version     2.1
+// @version     2.2
 // @downloadURL https://raw.githubusercontent.com/githuba/userscripts/master/AutoReload.user.js
 // @include     https://*.tgfcer.com/*
 // @include     http://bbs.weibufengge.com/*
 // @include     https://steamcn.com/*fid*
 // @include     https://steamcn.com/forum.php?mod=guide*
 // @include     https://na.alienwarearena.com/
+// @include     https://www.steamgifts.com/*
 // @run-at document-end
 // ==/UserScript==
 
