@@ -9,6 +9,8 @@
 // @include     https://*.tgfcer.com/*
 // @include     http://bbs.weibufengge.com/forum.php?mod=forumdisplay*
 // @include     http://bbs.weibufengge.com:88/forum.php?mod=forumdisplay*
+// @include     http://bbs.weibufengge.com/forum.php?mod=guide*
+// @include     http://bbs.weibufengge.com:88/forum.php?mod=guide*
 // @include     https://steamcn.com/forum.php?mod=forumdisplay*
 // @include     https://steamcn.com/forum.php?mod=guide*
 // @include     https://na.alienwarearena.com/
