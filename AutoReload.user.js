@@ -4,12 +4,12 @@
 // @author      githuba
 // @namespace   https://github.com/githuba/userscripts
 // @supportURL  https://github.com/githuba/userscripts/issues
-// @version     2.5
+// @version     2.7
 // @downloadURL https://raw.githubusercontent.com/githuba/userscripts/master/AutoReload.user.js
 // @include     https://*.tgfcer.com/*
-// @include     http://bbs.weibufengge.com/forum.php*
-// @include     http://bbs.weibufengge.com:88/forum.php*
-// @include     https://steamcn.com/*fid*
+// @include     http://bbs.weibufengge.com/forum.php?mod=forumdisplay*
+// @include     http://bbs.weibufengge.com:88/forum.php?mod=forumdisplay*
+// @include     https://steamcn.com/forum.php?mod=forumdisplay*
 // @include     https://steamcn.com/forum.php?mod=guide*
 // @include     https://na.alienwarearena.com/
 // @include     https://www.steamgifts.com/*
