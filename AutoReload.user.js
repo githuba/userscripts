@@ -4,7 +4,7 @@
 // @author      githuba
 // @namespace   https://github.com/githuba/userscripts
 // @supportURL  https://github.com/githuba/userscripts/issues
-// @version     3.1
+// @version     3.2
 // @downloadURL https://raw.githubusercontent.com/githuba/userscripts/master/AutoReload.user.js
 // @include     https://*.tgfcer.com/*
 // @include     http://bbs.weibufengge.com/forum.php?mod=forumdisplay*
@@ -19,6 +19,7 @@
 // @include     https://www.steamgifts.com/*
 // @include     https://www.hi-pda.com/forum/forumdisplay.php?*
 // @include     https://www.hostloc.com/forum.php?mod=forumdisplay&fid=45&filter=author&orderby=dateline*
+// @include     https://pt.m-team.cc/torrents.php?incldead=1&spstate=2
 // @run-at document-end
 // ==/UserScript==
 
