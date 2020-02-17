@@ -4,7 +4,7 @@
 // @author      githuba
 // @namespace   https://github.com/githuba/userscripts
 // @supportURL  https://github.com/githuba/userscripts/issues
-// @version     3.4
+// @version     3.5
 // @downloadURL https://raw.githubusercontent.com/githuba/userscripts/master/AutoReload.user.js
 // @include     https://*.tgfcer.com/*
 // @include     http://bbs.weibufengge.com/forum.php?mod=forumdisplay*
