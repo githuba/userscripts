@@ -21,6 +21,7 @@
 // @include     https://www.hostloc.com/forum.php?mod=forumdisplay&fid=45&filter=author&orderby=dateline*
 // @include     https://pt.m-team.cc/torrents.php*
 // @include     https://pt.m-team.cc/adult.php*
+// @include     https://hdchina.org/torrents.php*
 // @run-at document-end
 // ==/UserScript==
 
