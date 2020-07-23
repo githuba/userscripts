@@ -22,6 +22,7 @@
 // @include     https://pt.m-team.cc/torrents.php*
 // @include     https://pt.m-team.cc/adult.php*
 // @include     https://hdchina.org/torrents.php*
+// @include     https://karagarga.in/browse.php?*
 // @run-at document-end
 // ==/UserScript==
 
